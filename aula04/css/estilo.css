@@ -1,0 +1,44 @@
+/* comentário */
+/*
+    SINTAXE do CSS
+
+    criando declarações em CSS
+
+    todos os elementos da tag selecionada, na página ou site, terão a mesma formatação
+    seletor de tag{
+        propriedade: valor;
+    }
+
+    #id - seleciona um elemento pelo seu id
+    #id{
+        propriedade: valor;
+    }
+    .classe - seleciona um elemento pelo sua classe
+    .classe{
+        propriedade: valor;
+    }
+*/
+
+body {
+    background-color: #ffff00;
+}
+
+#pagina1{
+    background-color: #ff0000;
+}
+
+.disc{
+    list-style-type: disc;
+}
+
+.circle{
+    list-style-type: circle;
+}
+
+.square{
+    list-style-type: square;
+}
+
+.none{
+    list-style: none;
+}
