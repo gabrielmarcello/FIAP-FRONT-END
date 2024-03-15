@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto
+}
+
+#wrapper{
+    width: 1200px;
+    height: 3000px;
+    background-color: rgb(40, 40, 146);
+}
+
+#cabecalho{
+    width: 1200px;
+    height: 150px;  
+    background-color: rgb(51, 189, 51);
+}
+
+#carrosel{
+    width: 1200px;
+    height: 250px;  
+    background-color: rgb(227, 230, 52);
+}
